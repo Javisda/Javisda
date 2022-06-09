@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-Hi, I am Javier, a game development student who is mainly interested in the field of programming, either computer graphics or general videogame implementation.
+I am Javi, a game development student who is mainly interested in the field of programming, either computer graphics or general videogame implementation, but always open minded for any new field or application.
+
+This github will be a good looking one in a few days. Stay TUNED!!!
+
+<!-- Lenguajes de programacion usados -->
+<!-- Futuros proyectos, como el del TFG -->
+<!-- Redes sociales cuando las tenga -->
 
 <!--
 **Javisda/Javisda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
