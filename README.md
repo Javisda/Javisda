@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I am Javier, a game development student who is mainly interested in the field of programming, either computer graphics or general videogame implementation.
+
 <!--
 **Javisda/Javisda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
