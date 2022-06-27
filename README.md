@@ -5,7 +5,6 @@
 <a href="https://www.youtube.com/channel/UCs28j4oN60y0Vi2H8vO6V_Q" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="22px" height="22"></a>
 <a href="https://twitter.com/javinigadela" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="22px" height="22"></a>
 
-<br>
 
 <h2 align="center">Top</h2>
 <p align="center">
