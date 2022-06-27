@@ -1,6 +1,9 @@
 <h1 align="center">WELCOME</h1>
 
-<p align="justify">I am Javi, a game development student who is mainly interested in the field of programming, either computer graphics or general videogame implementation, but always open minded for any new field or application, and studying any thing comes to my mind. I'm about to start the last year of my studies and thinking on my thesis, which consist on achieving photorealism with neural networks. This summer I'm gonna study this field so I have a pretty good basis to start this project. Furthermore, I will try to code a game or develop another project. I also like reading so we can talk about books too. You can reach me on Twitter at @Javinigadela</p>
+<p align="justify">I am Javi, a game development student who is mainly interested in the field of programming, either computer graphics or general videogame implementation, but always open minded for any new field or application, and studying any thing comes to my mind. I'm about to start the last year of my studies and thinking on my thesis, which consist on achieving photorealism with neural networks. This summer I'm gonna study this field so I have a pretty good basis to start this project. Furthermore, I will try to code a game or develop another project. I also like reading so we can talk about books too. You can reach me here: </p>
+
+<a href="https://www.youtube.com/channel/UCs28j4oN60y0Vi2H8vO6V_Q" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="22px" height="22"></a>
+<a href="https://twitter.com/javinigadela" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="22px" height="22"></a>
 
 <br>
 
