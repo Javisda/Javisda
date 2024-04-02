@@ -8,6 +8,8 @@
 <h2 align="center">MY WORK</h2>
 <h2 align="center">Top</h2>
 <p align="center">
+  
+  <a href="https://github.com/Javisda/smplx-deca"><img src="Resources/result_javi.png" width="70%"></a>
   <a href="https://github.com/Javisda/RocketYan-UE4-Game"><img src="Resources/RocketYan.gif" width="70%"></a>
   <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation"><img src="Resources/PinkFloyd.gif" width="70%"></a>
 </p>
