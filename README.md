@@ -7,8 +7,8 @@ Virtual Reality at Rey Juan Carlos University. During
 my university degree in game development, I have 
 developed numerous video games, culminating in 
 a thesis that combined research and deep learning, 
-earning honors for its innovation and depth. I am enthusiastic about continuing to explore and integrate 
-the fields of computer graphics and machine learning into my future projects, pushing the boundaries of 
+earning honors for its innovation and depth. I am enthusiastic about continuing to explore and integrate 
+the fields of computer graphics and machine learning into my future projects, pushing the boundaries of 
 what’s possible in game development. You can reach me here: </p>
 
 <a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="22px" height="22"></a>
