@@ -13,10 +13,11 @@ what’s possible in game development.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:javiserrano@hotmail.es"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-Javiserrano-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/javinigadela)](https://twitter.com/javinigadela)  [![Linkedin Badge](https://img.shields.io/badge/-Javier_Serrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-serrano-del-amo-baa551150//)](https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/) [![Gmail Badge](https://img.shields.io/badge/-javiserrano@hotmail.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiserrano@hotmail.es)](mailto:javiserrano@hotmail.es)
+
+<!--
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Javisda&show_icons=true&theme=dark)
+-->
 
 <h2 align="center">MY WORK</h2>
 <h2 align="center">Top</h2>
