@@ -9,11 +9,14 @@ developed numerous video games, culminating in
 a thesis that combined research and deep learning, 
 earning honors for its innovation and depth. I am enthusiastic about continuing to explore and integrate 
 the fields of computer graphics and machine learning into my future projects, pushing the boundaries of 
-what’s possible in game development. You can reach me here: </p>
+what’s possible in game development. 
 
-<a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="22px" height="22"></a>
-<a href="https://www.youtube.com/channel/UCs28j4oN60y0Vi2H8vO6V_Q" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="22px" height="22"></a>
-<a href="https://twitter.com/javinigadela" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="22px" height="22"></a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:javiserrano@hotmail.es"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <h2 align="center">MY WORK</h2>
 <h2 align="center">Top</h2>
