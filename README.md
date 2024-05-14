@@ -18,27 +18,129 @@ what’s possible in game development. You can reach me here: </p>
 <h2 align="center">MY WORK</h2>
 <h2 align="center">Top</h2>
 <p align="center">
-  <a href="https://github.com/Javisda/smplx-deca"><img src="Resources/result_javi.png" width="70%"></a>
-  <a href="https://github.com/Javisda/Gears-Of-Hell"><img src=https://user-images.githubusercontent.com/79087129/198841111-ab53b4a5-4c8b-4d31-b99d-85f9fa39bb08.gif width=70%></a>
-  <a href="https://github.com/Javisda/RocketYan-UE4-Game"><img src="Resources/RocketYan.gif" width="70%"></a>
-  <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation"><img src="Resources/PinkFloyd.gif" width="70%"></a>
+  
+  <p align="center">
+    <a href="https://github.com/Javisda/smplx-deca">
+        <img src="Resources/result_javi.png" width="50%">
+    </a>
+    <a href="https://github.com/Javisda/smplx-deca">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=smplx-deca&theme=transparent">
+    </a>
+  </p>
+
+  <p align="center">
+      <a href="https://github.com/Javisda/Gears-Of-Hell">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Gears-Of-Hell&theme=transparent">
+    </a>
+    <a href="https://github.com/Javisda/Gears-Of-Hell">
+        <img src="https://user-images.githubusercontent.com/79087129/198841111-ab53b4a5-4c8b-4d31-b99d-85f9fa39bb08.gif" width="50%">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/RocketYan-UE4-Game">
+        <img src="Resources/RocketYan.gif" width="50%">
+    </a>
+    <a href="https://github.com/Javisda/RocketYan-UE4-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=RocketYan-UE4-Game&theme=transparent">
+    </a>
+  </p>
+
+  <p align="center">
+      <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=PinkFloyd-TheWall-3D-Animation&theme=transparent">
+    </a>
+    <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation">
+        <img src="Resources/PinkFloyd.gif" width="50%">
+    </a>
+  </p>
+
 </p>
+
+
+
  
 <h2 align="center">Unity Tools</h2>
 <p align="center">
-  <a href="https://github.com/Javisda/Custom-Cloth-Physics-ToolForUnity"><img src="Resources/Cloth.gif" width="70%"></a>
-  <a href="https://github.com/Javisda/Custom-Deformable-Solid-Physics-ToolForUnity"><img src="Resources/Solid.gif" width="70%"></a>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/Custom-Cloth-Physics-ToolForUnity">
+        <img src="Resources/Cloth.gif" width="50%">
+    </a>
+    <a href="https://github.com/Javisda/Custom-Cloth-Physics-ToolForUnity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Custom-Cloth-Physics-ToolForUnity&theme=transparent">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/Custom-Deformable-Solid-Physics-ToolForUnity">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Custom-Deformable-Solid-Physics-ToolForUnity&theme=transparent">
+    </a>
+    <a href="https://github.com/Javisda/Custom-Deformable-Solid-Physics-ToolForUnity">
+        <img src="Resources/Solid.gif" width="50%">
+    </a>
+    
+  </p>
+  
  </p>
+
+
+
+
  
 <h2 align="center">Multiplayer Games</h2>
 <p align="center">
-  <a href="https://github.com/Javisda/Capture-The-Flag"><img src="Resources/CaptureTheFlag.png" width="70%"></a>
-  <a href="https://github.com/Javisda/GanYan-WebSocketsGame"><img src="Resources/GanYan.png" width="70%"></a>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/Capture-The-Flag">
+        <img src="Resources/CaptureTheFlag.png" width="50%">
+    </a>
+    <a href="https://github.com/Javisda/Capture-The-Flag">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Capture-The-Flag&theme=transparent">
+    </a>
+    
+    
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/GanYan-WebSocketsGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=GanYan-WebSocketsGame&theme=transparent">
+    </a>
+    <a href="https://github.com/Javisda/GanYan-WebSocketsGame">
+        <img src="Resources/GanYan.png" width="50%">
+    </a>
+    
+  </p>
+
  </p>
+
+
+
+
  
 <h2 align="center">Casual Games</h2>
 <p align="center">
-  <a href="https://github.com/Javisda/Wordy-Game"><img src="Resources/Wordy.png" width="70%"></a>
-  <a href="https://github.com/Javisda/Dashing3DCube-Game"><img src="Resources/DashingCube.gif" width="70%"></a>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/Wordy-Game">
+        <img src="Resources/Wordy.png" width="50%">
+    </a>
+    <a href="https://github.com/Javisda/Wordy-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Wordy-Game&theme=transparent">
+    </a>
+    
+    
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Javisda/Dashing3DCube-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Dashing3DCube-Game&theme=transparent">
+    </a>
+    <a href="https://github.com/Javisda/Dashing3DCube-Game">
+        <img src="Resources/DashingCube.gif" width="50%">
+    </a>
+    
+  </p>
+
  </p>
 <br>
