@@ -11,16 +11,39 @@ earning honors for its innovation and depth. I am enthusiastic about continuing 
 the fields of computer graphics and machine learning into my future projects, pushing the boundaries of 
 what’s possible in game development. 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-Javiserrano-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/javinigadela)](https://twitter.com/javinigadela)  [![Linkedin Badge](https://img.shields.io/badge/-Javier_Serrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-serrano-del-amo-baa551150//)](https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/) [![Gmail Badge](https://img.shields.io/badge/-javiserrano@hotmail.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiserrano@hotmail.es)](mailto:javiserrano@hotmail.es)
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=Javisda&color=blue&style=flat-square" alt="tony espinosa profile views" />
+</p>
+
+<br>
+
+<div align="center">
+    <h3> 🤝🏻 &nbsp;Reach me here </h3>
+    <a href="https://twitter.com/javinigadela"><img src="https://img.shields.io/badge/-Javiserrano-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+    <a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/"><img src="https://img.shields.io/badge/-Javier_Serrano-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="mailto:javiserrano@hotmail.es"><img src="https://img.shields.io/badge/-javiserrano@hotmail.es-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<a href="https://github.com/Javisda">
+  <img align="CENTER" src="https://github-readme-stats.vercel.app/api?username=Javisda&show_icons=true&theme=transparent" />
+<br>  
+<br>
+   <img align="CENTER" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javisda&langs_count=5&size_weight=0.35&count_weight=0.65&count_private=false&show_icons=true&theme=transparent" />
+</a>
+</div>
+
 
 <!--
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Javisda&show_icons=true&theme=dark)
 -->
 
-<h2 align="center">MY WORK</h2>
-<h2 align="center">Top</h2>
+<br>
+<h2 align="center">Machine Learning</h2>
 <p align="center">
   
   <p align="center">
@@ -31,7 +54,11 @@ what’s possible in game development.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=smplx-deca&theme=transparent">
     </a>
   </p>
+</p>
 
+<br>
+<h2 align="center">Game Development</h2>
+<p align="center">
   <p align="center">
       <a href="https://github.com/Javisda/Gears-Of-Hell">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Gears-Of-Hell&theme=transparent">
