@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME</h1>
+<h1 align="center">Hi, I'm Javier Serrano del Amo</h1>
 
 <p align="justify">Hello, I’m Javier, a passionate and dedicated game 
 developer currently advancing my expertise with a 
@@ -19,7 +19,7 @@ what’s possible in game development.
 <br>
 
 <div align="center">
-    <h3> 🤝🏻 &nbsp;Reach me here </h3>
+    <h3>  &nbsp;Reach me here </h3>
     <a href="https://twitter.com/javinigadela"><img src="https://img.shields.io/badge/-Javiserrano-1ca0f1?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
     <a href="https://www.linkedin.com/in/javier-serrano-del-amo-baa551150/"><img src="https://img.shields.io/badge/-Javier_Serrano-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="mailto:javiserrano@hotmail.es"><img src="https://img.shields.io/badge/-javiserrano@hotmail.es-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
@@ -33,8 +33,14 @@ what’s possible in game development.
   <img align="CENTER" src="https://github-readme-stats.vercel.app/api?username=Javisda&show_icons=true&theme=transparent" />
 <br>  
 <br>
-   <img align="CENTER" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javisda&langs_count=5&size_weight=0.35&count_weight=0.65&count_private=false&show_icons=true&theme=transparent" />
 </a>
+  <br>
+  🌱 Currently working on
+
+  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://pytorch.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+  <code><a href="https://devdocs.io/cpp/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></a></code>
+  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></a></code>
 </div>
 
 
@@ -69,21 +75,32 @@ what’s possible in game development.
   </p>
 
   <p align="center">
-    <a href="https://github.com/Javisda/RocketYan-UE4-Game">
-        <img src="Resources/RocketYan.gif" width="50%">
-    </a>
-    <a href="https://github.com/Javisda/RocketYan-UE4-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=RocketYan-UE4-Game&theme=transparent">
+        <a href="https://github.com/PunicGames/PANIC-ROOMS">
+        <img src="https://github.com/PunicGames/PANIC-ROOMS/assets/79087129/202b6732-39de-4412-a2e5-38daf7a08b3d" width="50%">
+      </a>
+      <a href="https://github.com/PunicGames/PANIC-ROOMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunicGames&repo=PANIC-ROOMS&theme=transparent">
     </a>
   </p>
 
   <p align="center">
-      <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=PinkFloyd-TheWall-3D-Animation&theme=transparent">
+        <a href="https://github.com/Javisda/RocketYan-UE4-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=RocketYan-UE4-Game&theme=transparent">
     </a>
+    <a href="https://github.com/Javisda/RocketYan-UE4-Game">
+        <img src="Resources/RocketYan.gif" width="50%">
+    </a>
+
+  </p>
+
+  <p align="center">
     <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation">
         <img src="Resources/PinkFloyd.gif" width="50%">
     </a>
+      <a href="https://github.com/Javisda/PinkFloyd-TheWall-3D-Animation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=PinkFloyd-TheWall-3D-Animation&theme=transparent">
+    </a>
+    
   </p>
 
 </p>
@@ -149,7 +166,7 @@ what’s possible in game development.
 
 
  
-<h2 align="center">Casual Games</h2>
+<h2 align="center">Mobile Games</h2>
 <p align="center">
 
   <p align="center">
@@ -159,19 +176,26 @@ what’s possible in game development.
     <a href="https://github.com/Javisda/Wordy-Game">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Wordy-Game&theme=transparent">
     </a>
-    
-    
   </p>
 
   <p align="center">
-    <a href="https://github.com/Javisda/Dashing3DCube-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javisda&repo=Dashing3DCube-Game&theme=transparent">
+    <a href="https://github.com/PunicGames/Marble-Stars">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunicGames&repo=Marble-Stars&theme=transparent">
     </a>
-    <a href="https://github.com/Javisda/Dashing3DCube-Game">
-        <img src="Resources/DashingCube.gif" width="50%">
+    <a href="https://github.com/PunicGames/Marble-Stars">
+        <img src="https://user-images.githubusercontent.com/26395726/200412509-eaf471b0-8b29-4acb-a671-6300a09adf35.jpg" width="50%">
     </a>
-    
   </p>
 
+
+  <p align="center">
+    <a href="https://github.com/PunicGames/Flutter_Quiz">
+        <img src="https://user-images.githubusercontent.com/90959761/207107731-f91d265c-5081-46c7-aaf3-062bd4161137.png" width="50%">
+    </a>
+    <a href="https://github.com/PunicGames/Flutter_Quiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunicGames&repo=Flutter_Quiz&theme=transparent">
+    </a>
+  </p>
+  
  </p>
 <br>
